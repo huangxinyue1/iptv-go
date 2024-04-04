@@ -1,4 +1,6 @@
-电视台,https://自定义网站/youtube/油管后缀IP?quality=1080
+电视台,https://自定义网站/youtube/油管后缀ID?quality=1080
+
+油管IP如：BPx1u5j0GqI
 
 
 # iptv-go
