@@ -1,3 +1,6 @@
+电视台,https://自定义网站/youtube/油管后缀IP?quality=1080
+
+
 # iptv-go
 使用 [Vercel](https://vercel.com/) 部署 [https://github.com/youshandefeiyang/LiveRedirect](https://github.com/youshandefeiyang/LiveRedirect) 的 [Golang脚本](https://github.com/youshandefeiyang/LiveRedirect/tree/main/Golang/liveurls)
 
